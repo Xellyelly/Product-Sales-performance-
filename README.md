@@ -1,6 +1,7 @@
 # Product-Sales-performance-
 This Analysis is about Product Sales performance between year 2023 - 2024
-This project demonstrates strong skills in data visualization and business analysis. It highlights clear yearly patterns, showing growth in key performance areas such as sales, profit, and product quantity. The analysis reveals seasonal trends, regional performance shifts, and product demand changes, offering valuable insights into overall business performance. 
+
+ This project demonstrates strong skills in data visualization and business analysis. It highlights clear yearly patterns, showing growth in key performance areas such as sales, profit, and product quantity. The analysis reveals seasonal trends, regional performance shifts, and product demand changes, offering valuable insights into overall business performance. 
 
 ### **TOOLS :**
 - EXCEL : Visualization
